@@ -17,18 +17,18 @@ Awesome [Restic](https://restic.net) related projects.
 * 🟠 [Restic Browser](https://github.com/emuell/restic-browser) - A clientside GUI (Win/Linux/Mac) to browser your Restic repository snapshots
 * 🟢 [Déjà Dup Backups](https://gitlab.gnome.org/World/deja-dup) - A simple GUI for restic, well-integrated into your GNOME desktop
 * 🟢 [NPBackup](https://github.com/netinvent/npbackup) - A GUI & CLI backup program that adds Prometheus support, VSS fallback, cloud files excludes, etc... For Windows and Linux, and arm based NAS devices
-* 🟢 [Restic Backup GX](https://gitlab.com/stormking/resticguigx/-/blob/master/README.md) - Easy to use desktop GUI with profiles
+* 🟡 [Restic Backup GX](https://gitlab.com/stormking/resticguigx/-/blob/master/README.md) - Easy to use desktop GUI with profiles
 * 🟡 [resticterm](https://github.com/GPh83/resticterm) - a multi-platform UI for restic. It can be used alone as a backup tool or with restic command line to manage a repository
-* 🟢 [backrest](https://github.com/garethgeorge/backrest) - Fully open source web UI wrapper for restic. Supports scheduled backups and browsing/restoring from snapshots.
+* 🟡 [backrest](https://github.com/garethgeorge/backrest) - Fully open source web UI wrapper for restic. Supports scheduled backups and browsing/restoring from snapshots.
 * 🟠 [Kubackup](https://github.com/kubackup/kubackup) - A Simple, Open-Source, and Modern Web UI for Restic.
 * 🔴 [Restic Scheduler](https://github.com/sergeymakinen/ResticScheduler) - A Mac menu bar app to perform scheduled backups using Restic
-* 🟢 [RestLite](https://github.com/rest-lite/RestLite) - A simple backup program for Windows platform, supporting browsing snapshots by file directory
+* 🟡 [RestLite](https://github.com/rest-lite/RestLite) - A simple backup program for Windows platform, supporting browsing snapshots by file directory
 * 🟢 [redu](https://github.com/drdo/redu/) - A disk usage analyzer like ncdu but for your restic repository
 * 🟢 [Zerobyte](https://github.com/nicotsx/zerobyte) - A backup automation tool built on top of Restic, offering a modern web interface to schedule, manage, and monitor encrypted backups across multiple storage backends.
 * 🟢 [httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 and Restic backups
 * 🟢 [Pluton](https://github.com/plutonhq/pluton) - A modern, self-hosted backup solution for secure, encrypted backups across local and cloud storage
 * 🟢 [Arkeep](https://github.com/arkeep-io/arkeep) - Manage backups across all your servers from a single dashboard
-* 🟢 [Rest Stop](https://github.com/srivatsshankar/rest-stop) - Simple restic backups
+* 🟡 [Rest Stop](https://github.com/srivatsshankar/rest-stop) - Simple restic backups
 * 🟢 [Keelhaven](https://github.com/shenxianpeng/keelhaven) - A macOS menu bar app for scheduled restic backups to a local drive, S3-compatible bucket, or SFTP/NAS. Free and open source
 
 ## Mobile
@@ -42,32 +42,32 @@ Awesome [Restic](https://restic.net) related projects.
 
 * 🟠 [autorestic](https://github.com/cupcakearmy/autorestic) - High level CLI utility for restic
 * 🟢 [crestic](https://github.com/nils-werner/crestic) - Configurable restic wrapper with support for profiles and environments
-* 🟡 [resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles for restic backup
-* 🟡 [runrestic](https://github.com/sinnwerkstatt/runrestic) - A wrapper script for Restic backup software that inits, creates, prunes and checks backups
-* 🔴 [resticara](https://github.com/VuteTech/Resticara) - Simple wrapper with a `.ini` configuration and mail notifications
-* 🟡 [resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container
+* 🟠 [resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles for restic backup
+* 🟠 [runrestic](https://github.com/sinnwerkstatt/runrestic) - A wrapper script for Restic backup software that inits, creates, prunes and checks backups
+* 🟢 [resticara](https://github.com/VuteTech/Resticara) - Simple wrapper with a `.ini` configuration and mail notifications
+* 🟠 [resticker](https://github.com/djmaze/resticker) - Run automatic restic backups via a Docker container
 * 🔴 [restic-windows-backup](https://github.com/kmwoley/restic-windows-backup) - Powershell scripts to run Restic backups on Windows
 * 🔴 [stack-back](https://github.com/lawndoc/stack-back) - Backup tool for Docker Compose stacks that backs up container volumes with simple container labels
 * 🟡 [Ludusavi Restic Playnite Plugin](https://github.com/sharkusmanch/playnite-ludusavi-restic) - Plugin for [Playnite](https://playnite.link) that allows for creating point-in-time snapshots of game save data.
-* 🟢 [restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron
+* 🟡 [restic-automatic-backup-scheduler](https://github.com/erikw/restic-automatic-backup-scheduler) - Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron
 * 🔴 [wrestic](https://github.com/alvaro17f/wrestic) - 👽 A wrapper around restic built in rust
-* 🔴 [restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A Docker container to automate restic backups
+* 🟢 [restic-backup-docker](https://github.com/lobaro/restic-backup-docker) - A Docker container to automate restic backups
 * 🔴 [Repliqate](https://github.com/lminlone/repliqate) - A modular Docker container/volume backup solution
-* 🟢 [restic-backup-toolkit](https://github.com/andersyin/restic-backup-toolkit) - 3-tier macOS backup: rsync mirror + restic cold backup + SHA256 audit. launchd automation, zero cloud.
+* 🟡 [restic-backup-toolkit](https://github.com/andersyin/restic-backup-toolkit) - 3-tier macOS backup: rsync mirror + restic cold backup + SHA256 audit. launchd automation, zero cloud.
 
 ## Other
 
 * 🔴 [BIVAC](https://github.com/camptocamp/bivac) - Backup Interface for Volumes Attached to Containers
-* 🟠 [Stash](https://github.com/stashed/stash) - Backup your Kubernetes Stateful Applications
+* 🟢 [Stash](https://github.com/stashed/stash) - Backup your Kubernetes Stateful Applications
 * 🟢 [k8up](https://github.com/vshn/k8up) - Kubernetes and OpenShift Backup Operator
-* 🔴 [brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends
+* 🟢 [brudi](https://github.com/mittwald/brudi) - Easy, incremental and encrypted backup creation / restoration for different backends
 * 🟢 [volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
 * 🟢 [rclone serve restic](https://rclone.org/commands/rclone_serve_restic/) - Serve the remote for restic's REST backend API locally and allows restic to use rclone as a data storage mechanism for cloud providers that restic does not support directly (e.g. WebDAV)
-* 🟠 [ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic.
-* 🟠 [ansible-role-autorestic](https://github.com/FuzzyMistborn/ansible-role-autorestic) - An Ansible role which installs/updates restic and autorestic and creates autorestic config files.
+* 🟢 [ansible_role_restic](https://github.com/roles-ansible/ansible_role_restic) - Ansible role to deploy and configure restic.
+* 🟢 [ansible-role-autorestic](https://github.com/FuzzyMistborn/ansible-role-autorestic) - An Ansible role which installs/updates restic and autorestic and creates autorestic config files.
 * 🟢 [ansible-role-restic-rest-server](https://github.com/tigattack/ansible-role-restic-rest-server) - Ansible role to deploy restic's Rest Server in a Docker container.
-* 🟡 [restic-exporter](https://github.com/ngosang/restic-exporter) - A Prometheus exporter for Restic backup metrics
-* 🟢 [restic-drill](https://github.com/iacosta3994/restic-drill) - Automated restore-drills: restores a rotating file from each repository and sha256-compares the bytes against the live file, proving backups restore correct data. Runs as a weekly systemd timer and alerts on failure.
+* 🟠 [restic-exporter](https://github.com/ngosang/restic-exporter) - A Prometheus exporter for Restic backup metrics
+* 🟡 [restic-drill](https://github.com/iacosta3994/restic-drill) - Automated restore-drills: restores a rotating file from each repository and sha256-compares the bytes against the live file, proving backups restore correct data. Runs as a weekly systemd timer and alerts on failure.
 
 ## Commercial
 
